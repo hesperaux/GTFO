@@ -1,0 +1,3 @@
+C:/Users/hespe/Documents/Repos/GTFO/cmake-build-debug/CMakeFiles/GTFO.elf.dir
+C:/Users/hespe/Documents/Repos/GTFO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hespe/Documents/Repos/GTFO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
